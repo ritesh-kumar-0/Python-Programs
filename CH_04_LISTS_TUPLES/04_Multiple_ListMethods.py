@@ -34,4 +34,4 @@ print("Count of 78:", marks.count(78))
 # Find index of 89
 print("Index of 89:", marks.index(89))
 # Final list
-print("Final Marks List:", marks)
+print("Final Marks List: ", marks)
