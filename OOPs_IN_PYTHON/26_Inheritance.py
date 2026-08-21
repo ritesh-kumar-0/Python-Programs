@@ -2,7 +2,7 @@
 # Parent class
 class Animal:
 
-    def eat(self):
+    def eat(self):  
         print("Animal is eating")
 
 
